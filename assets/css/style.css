@@ -65,52 +65,16 @@ p {
     font-size: 16px;
 }
 
-.engine-opt img {
+.content img {
     max-height: 200px;
 }
 
-.rep-mgmt img {
-    max-height: 200px;
-}
-
-.media-market img {
-    max-height: 200px;
-}
-
-.engine-opt h2 {
+.content h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.rep-mgmt h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.media-market h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.engine-opt {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.rep-mgmt {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.media-market {
+.content div {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -140,63 +104,29 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+.benefits div {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-aware {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-manage {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-lead h3 {
+.benefits div h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-h3 {}
-
-.benefit-aware h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-manage h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-lead img {
+.benefits div img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit-aware img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-manage img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }

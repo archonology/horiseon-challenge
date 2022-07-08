@@ -1,18 +1,34 @@
 # horiseon-challenge
+<h1>Horiseon Challenge: Refactoring<h1>
 
-Source code has been refactored. 
+<h2>Dependencies<h2>:
 
-I went through each line to ensure semantic HTML elements are in place, 
-and I cleaned up the structure of the HTML elements. 
+No prerequisites needed for running this website.
 
-You will find that all elements now follow an elemental structure.
-"alt" atributes have been added to each image.  
+<h2>How to run the program:<h2>
 
-Heading attributes have been organized correctly, and a concise, 
-descriptive tile has been added: "Horiseon".
+ - this is single page website mock-up.
+ - the links on header navigation lead to the divisions lower on the page.
+ - this page has not yet been adapted for any screen size beyond a desktop.
+ - css selectors have been consolidated from the original code for more simplicity and less repition.  
+ 
+<h2>Any advise for common problems or issue:<h2>
 
-The links have all been checked, and all three are functional.  
-I modified the names of some of the selectors and ids to make them quicker to write out.
+Since the nav links go to the same page, depending on your window size, the link to the first division may behave strange, or not seem to navigate you.  Make your window smaller so less of the lower page is visible, and it should work properly.  
 
--RUM, 2022
+command to run if program contains helper info
+
+<h2>Authors:<h2>
+
+Reed Meher / Archonology on GitHub / reed.meher@gmail.com
+
+
+This project is unlicensed. 
+
+<h2>Acknowledgments:<h2>
+Thanks to the founders of the computing language. Good job, this is neat.
+
+<h2>Inspiration:<h2>
+
+W3 and the MN Coding Camp staff: thanks for the materials, tutorials, and the challenge!
 
