@@ -1,7 +1,6 @@
-# horiseon-challenge
-<h1>Horiseon Challenge: Refactoring<h1>
+# horiseon-challenge:refactoring
 
-<h2>Dependencies<h2>:
+<h2>Dependencies<h2>
 
 No prerequisites needed for running this website.
 
@@ -32,3 +31,4 @@ Thanks to the founders of the computing language. Good job, this is neat.
 
 W3 and the MN Coding Camp staff: thanks for the materials, tutorials, and the challenge!
 
+![Horiseon page](https://user-images.githubusercontent.com/107374664/178032300-9f73114a-c5ec-4b08-8318-ee5b8a05c10f.jpg)
